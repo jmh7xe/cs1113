@@ -1,0 +1,39 @@
+Loading help-at-pt...done
+ad-handle-definition: `tramp-read-passwd' got redefined
+Turn on helm-projectile key bindings
+Source file `/home/cs1/.emacs.d/elpa/dired+-20150730.1406/dired+.el' newer than byte-compiled file
+[yas] Discovered there was already *scratch* in fundamental-mode
+[yas] Discovered there was already  *code-conversion-work* in fundamental-mode
+[yas] Discovered there was already  *load* in fundamental-mode
+[yas] Discovered there was already  *Echo Area 0* in fundamental-mode
+[yas] Discovered there was already  *Echo Area 1* in fundamental-mode
+[yas] Loading for `fundamental-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/cs1/.emacs.d/plugins/yasnippet/snippets/fundamental-mode) (quote fundamental-mode)))!
+[yas] Loading compiled snippets from /home/cs1/.emacs.d/plugins/yasnippet/snippets/fundamental-mode
+Loading /home/cs1/.emacs.d/plugins/yasnippet/snippets/fundamental-mode/.yas-setup.el (source)...done
+[yas] Prepared just-in-time loading for /home/cs1/.emacs.d/plugins/yasnippet/snippets
+[yas] Check your `yas-snippet-dirs': ~/.emacs.d/snippets is not a directory
+[yas] Reloaded everything (snippets will load just-in-time)... (some errors, check *Messages*).
+Eshell virtualenv support initialized.
+Loading /home/cs1/System/ProofGeneral/generic/proof-site.el (source)...done
+Loading tuareg-site-file...done
+[yas] Loading for `lisp-interaction-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/cs1/.emacs.d/plugins/yasnippet/snippets/lisp-interaction-mode) (quote lisp-interaction-mode)))!
+[yas] Loading compiled snippets from /home/cs1/.emacs.d/plugins/yasnippet/snippets/lisp-interaction-mode
+[yas] Loading for `emacs-lisp-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/cs1/.emacs.d/plugins/yasnippet/snippets/emacs-lisp-mode) (quote emacs-lisp-mode)))!
+[yas] Loading compiled snippets from /home/cs1/.emacs.d/plugins/yasnippet/snippets/emacs-lisp-mode
+[yas] Loading for `prog-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/cs1/.emacs.d/plugins/yasnippet/snippets/prog-mode) (quote prog-mode)))!
+[yas] Loading compiled snippets from /home/cs1/.emacs.d/plugins/yasnippet/snippets/prog-mode
+Loading /home/cs1/.emacs.d/plugins/yasnippet/snippets/prog-mode/.yas-setup.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+[yas] Loading for `python-mode', just-in-time: (lambda nil (yas--load-directory-1 (quote /home/cs1/.emacs.d/plugins/yasnippet/snippets/python-mode) (quote python-mode)))!
+[yas] Loading compiled snippets from /home/cs1/.emacs.d/plugins/yasnippet/snippets/python-mode
+Loading /home/cs1/.emacs.d/plugins/yasnippet/snippets/python-mode/.yas-setup.el (source)...done
+Quit
+TypeError: source code string cannot contain null bytes [E901] [2 times]
+py-electric-backspace: Beginning of buffer [2 times]
+TypeError: source code string cannot contain null bytes [E901]
+command-execute: Buffer is read-only: #<buffer *Messages*>
+Auto-saving...
+Wrote /home/cs1/my/stuff/cs1/quizzes/*Messages*
+Quit
+command-execute: Buffer is read-only: #<buffer *Messages*> [3 times]
+Saving file /home/cs1/my/stuff/cs1/quizzes/*Messages*...

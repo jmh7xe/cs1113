@@ -1,0 +1,25 @@
+- + Errors (8)
+ |-- boolTest.idr line 26 col 3:
+ |   When checking right hand side of b7:
+ |   No such variable pair.pair
+ |-- boolTest.idr line 29 col 3:
+ |   When checking right hand side of b8:
+ |   No such variable pair.pair
+ |-- boolTest.idr line 32 col 3:
+ |   When checking right hand side of b9:
+ |   No such variable pair.pair
+ |-- boolTest.idr line 35 col 4:
+ |   When checking right hand side of b10:
+ |   No such variable pair.pair
+ |-- boolTest.idr line 38 col 4:
+ |   When checking right hand side of b11:
+ |   No such variable pair.pair
+ |-- boolTest.idr line 41 col 4:
+ |   When checking right hand side of b12:
+ |   No such variable pair.pair
+ |-- boolTest.idr line 44 col 4:
+ |   When checking right hand side of b13:
+ |   No such variable pair.pair
+ `-- boolTest.idr line 47 col 4:
+     When checking right hand side of b14:
+     No such variable pair.pair
